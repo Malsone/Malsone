@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Malsone</h1>
+<h1 align="center">Hi 👋🔥, I'm Malsone</h1>
 <p align="left">
-  - 🖥️⌨📚 I’m currently studying on **DAM(Multimedia Application Development)**
+  - 🖥️⌨📚 I'm web and multiplatform applications developer and currently working on **Level4**
 </p>
 
 <div align="center">
